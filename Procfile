@@ -1,1 +1,1 @@
-web    java $JAVA_OPTS -Ddw.http.port=$PORT -Ddw.http.adminPort=$PORT -jar c:/users/tal/IdeaProjects/TTT/target/ttt-1.0.0-SNAPSHOT.jar server 
+web    java $JAVA_OPTS -Ddw.http.port=$PORT -Ddw.http.adminPort=$PORT -jar target/ttt-1.0.0-SNAPSHOT.jar server 
