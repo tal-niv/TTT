@@ -1,0 +1,14 @@
+tal\leaders\ttt\TTTApplication.class
+tal\leaders\ttt\api\MatchResultType.class
+tal\leaders\ttt\core\MatchManager.class
+tal\leaders\ttt\api\Player.class
+tal\leaders\ttt\api\Square.class
+tal\leaders\ttt\api\Board.class
+tal\leaders\ttt\api\Match.class
+tal\leaders\ttt\api\Board$1.class
+tal\leaders\ttt\api\MatchResult.class
+tal\leaders\ttt\api\MatchStatus.class
+tal\leaders\ttt\api\Match$1.class
+tal\leaders\ttt\resources\MatchResource.class
+tal\leaders\ttt\TTTConfiguration.class
+tal\leaders\ttt\core\MoveEvaluator.class
